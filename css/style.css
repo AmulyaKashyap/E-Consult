@@ -1,0 +1,59 @@
+.nav-wrapper{
+  background-color:#012E55;
+  font-family: 'Goblin One', cursive;
+}
+.brand-logo{
+  font-family:'Lobster';
+}
+.parallax-container{
+  min-height: 40vw;
+  width: 100%;
+  height: auto;
+}
+.content-header{
+  font-family:'Lobster';
+  font-size: 5vw;
+  color: #012E55;
+}
+.body-content{
+  font-size:2vw;
+  color: #012E55;
+  font-family: Cambria;
+  background-color: #f1f7fd;
+}
+.btn{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  align-content: center;
+  border-radius: 15px;
+  width:10vw;
+  background-color: #012E55;
+}
+.subheading{
+  font-size: 3vw;
+  font-family:'Lobster';
+}
+.subheading-two{
+  font-size: 2.5vw;
+  font-family:'Lobster';
+}
+.tabs{
+  font-size: 2w;
+  color: #012E55;
+
+}
+.tabs .tab a{
+  font-size: 2w;
+  color: #012E55;
+}
+.footer-one{
+  background: #012E55;
+  font-family:Cambria;
+  font-size: 1.5vw;
+}
+.footer-two{
+  background: #0a3f6d;
+  font-size: 1vw;
+}
+.icon-econsult{
+  color: #012E55;
+}
